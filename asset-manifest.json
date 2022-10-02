@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/App-Landing-Page/static/css/main.bf85fdb1.css",
+    "main.js": "/App-Landing-Page/static/js/main.d44dbd61.js",
+    "static/media/presentation.png": "/App-Landing-Page/static/media/presentation.2d949a93e3bcab6b6622.png",
+    "static/media/Frame_19.png": "/App-Landing-Page/static/media/Frame_19.0290bb5a48c48e1b374a.png",
+    "static/media/background.png": "/App-Landing-Page/static/media/background.980493c75a48f2e7e650.png",
+    "static/media/download.png": "/App-Landing-Page/static/media/download.52e6d6c5be1ea7a93af6.png",
+    "static/media/feature_2.png": "/App-Landing-Page/static/media/feature_2.2b466162eafef9cf2b5f.png",
+    "static/media/feature_1.png": "/App-Landing-Page/static/media/feature_1.801589a0dc8faa4fad28.png",
+    "static/media/feature_3.png": "/App-Landing-Page/static/media/feature_3.0fadb17c93d531691fd5.png",
+    "index.html": "/App-Landing-Page/index.html",
+    "main.bf85fdb1.css.map": "/App-Landing-Page/static/css/main.bf85fdb1.css.map",
+    "main.d44dbd61.js.map": "/App-Landing-Page/static/js/main.d44dbd61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf85fdb1.css",
+    "static/js/main.d44dbd61.js"
+  ]
+}
